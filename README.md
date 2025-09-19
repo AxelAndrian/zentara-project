@@ -130,24 +130,6 @@ The app uses the Countries GraphQL API at `https://countries.trevorblades.com/gr
 - **Interactive Chat**: Natural language conversation about threats
 - **Streaming Responses**: Real-time AI response streaming
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Set environment variables in Vercel dashboard
-4. Deploy automatically
-
-### Other Platforms
-
-The app can be deployed to any platform that supports Next.js:
-
-- Netlify
-- AWS Amplify
-- Railway
-- DigitalOcean App Platform
-
 ## 🧪 Development
 
 ### Available Scripts
@@ -197,31 +179,3 @@ The app can be deployed to any platform that supports Next.js:
 ### Debug Mode
 
 Set `NODE_ENV=development` for additional logging and error details.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- [Next.js](https://nextjs.org/) - React framework
-- [ShadCN/UI](https://ui.shadcn.com/) - UI components
-- [Countries GraphQL API](https://countries.trevorblades.com/) - Country data
-- [NVIDIA NIM](https://www.nvidia.com/en-us/ai-data-science/generative-ai/nim/) - AI inference
-- [Recharts](https://recharts.org/) - Data visualization
-
-## 📞 Support
-
-For support and questions, please open an issue in the GitHub repository.
-
----
-
-**Built with ❤️ for cybersecurity professionals**
